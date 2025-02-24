@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Diagrama de flujo de los protocolos de cierre de caja, mostrando los pasos desde el cierre de operación hasta el arqueo y entrega del puesto de trabajo.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Protocolos de cierre de caja',
     Description:
-      'A través de este componente de formación se pretende instruir para realizar el cierre de caja y entrega del puesto de pago a la hora de terminar un turno, teniendo en cuenta que se deben hacer entrega de dinero y soportes de todas la transacciones u operaciones que haya tenido durante el día y para los cuales hay ciertos protocolos a seguir.',
+      'A través de este componente de formación se pretende instruir para realizar el cierre de caja y entrega del puesto de pago a la hora de terminar un turno, teniendo en cuenta que se deben hacer entrega de dinero y soportes de todas la transacciones u operaciones que se hayan realizado durante el día, y para los cuales hay ciertos protocolos a seguir.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -114,10 +114,11 @@ export default {
         'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
     },
     {
-      tema: 'Arqueo de caja y entrega del puesto de trabajo',
-      referencia: 'Martínez, A. (1984). Contabilidad arqueo caja. SENA.',
-      tipo: 'Libro',
-      link: 'https://repositorio.sena.edu.co/handle/11404/626',
+      tema: 'Arqueo de caja',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, 13 julio). Arqueo de caja [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=rpicwosfieU',
     },
     {
       tema: 'Clasificar efectivo y medios de pago',

@@ -128,7 +128,7 @@
         .sub.mb-3(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/temas/ico.svg', alt='')
-            h3.mb-0.ms-2 Las nota cambio
+            h3.mb-0.ms-2 La nota cambio
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
