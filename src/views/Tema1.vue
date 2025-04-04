@@ -28,7 +28,7 @@
     
     .row.justify-content-center.align-items-start
       .col-lg-6
-        p.mb-4(data-aos="fade-left") Al punto de pago llegan diferentes medios de pago que el cajero debe saber identificar de acuerdo con las características de seguridad indicadas como, por ejemplo, el proceso para autorizar el recibo de cheques, si es que se puede recibir dicho tipo de pago en determinado #[em retail].
+        p.mb-4(data-aos="fade-left") Al punto de pago llegan diferentes medios de pago que el cajero debe saber identificar de acuerdo con las características de seguridad indicadas, como, por ejemplo, el proceso para autorizar el recibo de cheques, si es que se puede recibir dicho tipo de pago en determinado #[em retail].
       .col-lg-6
         .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
           .col-lg-12
@@ -39,7 +39,7 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h4.mb-3.my-3 #[b ¿Qué forma de pagos existen?]
+                      h4.mb-3.my-3 #[b ¿Qué formas de pago existen?]
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://youtu.be/NMcQatosBOo" target="_blank")
                         span.ps-2.pe-2 Ir al sitio
@@ -69,12 +69,12 @@
                 p.mb-0 Calibre del papel similar al de un billete.
               li.d-flex.mb-0
                 i.fas.fa-circle-check
-                p.mb-0 Numeración roja impresa con tinta tri - reactiva, similar a la de los cheques.
+                p.mb-0 Numeración roja impresa con tinta tri-reactiva, similar a la de los cheques.
           .col-lg-6
             .titulo-sexto.color-secundario.mb-3
               h5 Figura 1. 
               | Orden de compra
-            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img2.svg", alt="La imagen presenta una fotografía de una orden de compra donde se aprecian sus componentes y caracteristicas." )
+            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img2.svg", alt="La imagen presenta una fotografía de una orden de compra donde se aprecian sus componentes y características." )
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-circle-check
@@ -192,7 +192,7 @@
         .sub.mb-3(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/temas/ico.svg', alt='')
-            h3.mb-0.ms-2 Los tickets
+            h3.mb-0.ms-2 Los #[em tickets]
 
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-10
@@ -236,7 +236,7 @@
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-circle-check
-                p.mb-0 El isotipo (logo para identificar marcas, instituciones, productos o servicios) de cada bono se observan figuras tridimensionales con micro líneas curvas muy delgadas.
+                p.mb-0 En el isotipo (logo para identificar marcas, instituciones, productos o servicios) de cada bono se observan figuras tridimensionales con microlíneas curvas muy delgadas.
               li.d-flex.mb-0
                 i.fas.fa-circle-check
                 p.mb-0 El valor es igual en el bono y en el desprendible.
@@ -320,7 +320,7 @@
         .sub(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/temas/ico.svg', alt='')
-            h3.mb-0.ms-2 Las tarjetas crédito
+            h3.mb-0.ms-2 Las tarjetas de crédito
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-down")
       .col-lg-10
@@ -362,7 +362,7 @@
                   .tarjeta.color-acento-con.p-4(x="43.7%" y="90.6%" numero="") 
                     p.mb-0 Al reverso de las tarjetas está el código CVV o CVC que consta de 3 o 4 números y se utiliza como método de seguridad en transacciones en las que la tarjeta no está físicamente presente, como en compras por teléfono o Internet.
                   .tarjeta.color-acento-con.p-4(x="77.4%" y="88%" numero="") 
-                    p.mb-0 Logotipos, (VISA, MasterCard, Diners Club, Credencial, American Expres), con características y colores de contornos muy definidos. No se desprende al frotarlo con la uña.
+                    p.mb-0 Logotipos, (VISA, MasterCard, Diners Club, Credencial, American Express), con características y colores de contornos muy definidos. No se desprende al frotarlo con la uña.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6
@@ -379,9 +379,9 @@
       .col-lg-10
         .row.justify-content-center.align-items-start.mb-4
           .col-lg-7
-            p.mb-4(data-aos="fade-left") Esta modalidad de pago es aún utilizada, aunque en menor proporción, por lo cual se debe tener las precisiones para cada tipo.
+            p.mb-4(data-aos="fade-left") Esta modalidad de pago es aún utilizada, aunque en menor proporción, por lo cual se deben tener las precisiones para cada tipo.
             h4.mb-3 Cheque personal
-            p.mb-3 El valor del cheque debe ser máximo por el valor de la compra, si el cliente requiere cambio o “vueltas” se tiene en cuenta la cantidad autorizada por la compañía.
+            p.mb-3 El valor del cheque debe ser máximo por el valor de la compra, si el cliente requiere cambio o “vueltas”, se tiene en cuenta la cantidad autorizada por la compañía.
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-circle-check
@@ -468,7 +468,7 @@
             .titulo-sexto.color-secundario.mb-3
               h5 Figura 7. 
               | Cheque de empresa
-            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img11.png", alt="La imagen presenta una fotografía de un cheque diligenciado a maquina y con un sello de la empresa." )
+            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img11.png", alt="La imagen presenta una fotografía de un cheque diligenciado a máquina y con un sello de la empresa." )
         .row.justify-content.align-items-start
           .col-lg-5(data-aos="fade-right")
             h4.mb-3 Características:
@@ -526,7 +526,7 @@
             img(src='@/assets/curso/temas/ico.svg', alt='')
             h3.mb-0.ms-2 El efectivo y la seguridad de los billetes
     
-    p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+    p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza de que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
 
     .row.fondo1.align-items-center.p-3.mb-0(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -545,8 +545,8 @@
                     p.mb-0 Las áreas con relieve en la mayoría de los casos, son las zonas más oscuras del billete.
                   li.d-flex.mb-0
                     i.fas.fa-check
-                    p.mb-0 Al exponer el billete a la luz ultravioleta se pueden apreciar en el hilo de seguridad color plateado la palabra “COLOMBIA” aparece en color amarillo sobre fondo violeta  y el texto “50 MIL PESOS”. También los números de serie del billete aparecen en colores verde y rojo.
-                p.mb-4 Al exponer el billete a la luz ultravioleta se puede apreciar que el hilo de seguridad reacciona en color verde y que en la parte superior del árbol se ve en el color naranja. Los extremos superior e inferior del billete se observan en color amarillo.
+                    p.mb-0 Al exponer el billete a la luz ultravioleta, se puede apreciar en el hilo de seguridad color plateado, la palabra “COLOMBIA” aparece en color amarillo sobre fondo violeta  y el texto “50 MIL PESOS”. También los números de serie del billete aparecen en colores verde y rojo.
+                p.mb-4 Al exponer el billete a la luz ultravioleta, se puede apreciar que el hilo de seguridad reacciona en color verde y que en la parte superior del árbol se ve en el color naranja. Los extremos superior e inferior del billete se observan en color amarillo.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 8. 

@@ -60,7 +60,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-secundario.p-4.mb-5
-          p.mb-0(data-aos="fade-left") En el punto de pago o caja no debe quedar nada con relación a dinero en efectivo, bonos, cheques u otros documentos de valor y, toda la gestión de la jornada debe reportarse en el departo de recaudo respectivo en cada #[em retail].
+          p.mb-0(data-aos="fade-left") En el punto de pago o caja no debe quedar nada con relación a dinero en efectivo, bonos, cheques u otros documentos de valor y, toda la gestión de la jornada debe reportarse en el departamento de recaudo respectivo en cada #[em retail].
         
         .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
           .col-lg-12
@@ -72,7 +72,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h4.mb-2 Verificación del funcionamiento de la caja
-                      p.mb-2 Tanto al entregar como al recibir el puesto de trabajo es importante validar el correcto funcionamiento de esta, se invita a ver el siguiente recurso externo.
+                      p.mb-2 Tanto al entregar como al recibir el puesto de trabajo es importante validar el correcto funcionamiento de esta. Se invita a ver el siguiente recurso externo.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=uFe65nDNpIQ" target="_blank")
                         span.ps-2.pe-2 Ir al sitio
@@ -121,7 +121,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h4.mb-2 Proceso general del cajero  
-                      p.mb-2 Para garantizar este punto es importante recordar realizar un adecuado proceso de manejo de caja, se invita a repasar el mismo a través del siguiente recurso.
+                      p.mb-2 Para garantizar este punto es importante recordar realizar un adecuado proceso de manejo de caja. Se invita a repasar el mismo a través del siguiente recurso.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nYWj9Tru7mc" target="_blank")
                         span.ps-2.pe-2 Ir al sitio
@@ -137,7 +137,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h4.mb-2(data-aos="fade-left") Mejora continua   
-                      p.mb-2(data-aos="fade-left") Esta es la gran aliada para mejorar día a día su labor, revise el siguiente recurso externo.
+                      p.mb-2(data-aos="fade-left") Esta es la gran aliada para mejorar día a día su labor. Revise el siguiente recurso externo.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Bnh13PRml3Y" target="_blank")
                         span.ps-2.pe-2 Ir al sitio

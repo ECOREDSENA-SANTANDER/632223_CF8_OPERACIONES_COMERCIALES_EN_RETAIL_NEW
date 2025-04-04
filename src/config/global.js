@@ -116,7 +116,7 @@ export default {
     {
       tema: 'Arqueo de caja',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021, 13 julio). Arqueo de caja [Vídeo]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, 13 julio). Arqueo de caja [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rpicwosfieU',
     },
@@ -132,7 +132,7 @@ export default {
     {
       termino: 'Transacción rechazada',
       significado:
-        'Usted deposita un cheque emitido para usted, pero la persona que lo libró no tiene fondos suficientes para cubrirlo. En este caso, si ya se le acreditó el depósito se debitará de su cuenta, ya que no había fondos suficientes.',
+        'Usted deposita un cheque emitido para usted, pero la persona que lo libró no tiene fondos suficientes para cubrirlo. En este caso, si ya se le acreditó el depósito, se debitará de su cuenta, ya que no había fondos suficientes.',
     },
     {
       termino: 'Transacción efectiva',
@@ -142,7 +142,7 @@ export default {
     {
       termino: 'Tarjeta débito',
       significado:
-        'Al igual que la tarjeta de crédito es un medio que permite realizar pagos sin tener dinero en efectivo. La diferencia es que con la tarjeta débito el cargo en la cuenta se produce inmediatamente, con lo que si no existe disponible el pago no se podrá realizar. Estas tarjetas también permiten retirar dinero en efectivo en los cajeros automáticos, aunque normalmente con comisiones si no se utiliza la red propia de la tarjeta.',
+        'Al igual que la tarjeta de crédito, es un medio que permite realizar pagos sin tener dinero en efectivo. La diferencia es que con la tarjeta débito el cargo en la cuenta se produce inmediatamente, con lo que si no existe disponible el pago no se podrá realizar. Estas tarjetas también permiten retirar dinero en efectivo en los cajeros automáticos, aunque normalmente con comisiones si no se utiliza la red propia de la tarjeta.',
     },
     {
       termino: 'Tarjeta de crédito',
@@ -167,7 +167,7 @@ export default {
     {
       termino: 'Legalización',
       significado:
-        'Documento mediante el cual se formaliza los gastos realizados con cargo al anticipo concedido y se reintegran los recursos no gastados.',
+        'Documento mediante el cual se formalizan los gastos realizados con cargo al anticipo concedido y se reintegran los recursos no gastados.',
     },
     {
       termino: 'Firma y fibrillas invisibles',
