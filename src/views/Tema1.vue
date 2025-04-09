@@ -526,7 +526,7 @@
             img(src='@/assets/curso/temas/ico.svg', alt='')
             h3.mb-0.ms-2 El efectivo y la seguridad de los billetes
     
-    p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza de que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+        p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza de que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
 
     .row.fondo1.align-items-center.p-3.mb-0(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -534,12 +534,12 @@
         
         .tarjetaf.p-3.mb-4
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items.p-4
               .col-lg-6
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 En los billetes antiguos (50.000, 20.000 y 10.000) se pueden encontrar los siguientes elementos de seguridad a tener en cuenta:
+                    p.mb-4 Los billetes de 50.000 cuentan con diversos elementos de seguridad diseñados para prevenir la falsificación y garantizar su autenticidad. Entre estos se incluyen...
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Las áreas con relieve en la mayoría de los casos, son las zonas más oscuras del billete.
@@ -553,13 +553,12 @@
                   | Elementos de seguridad, billete de 50 mil.
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img12.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
                 p.mb-3.text-rigth (Banco de la República, s.f.)
-            .row.justify-content-center.align-items-center.p-4(data-aos="fade-left")
+            .row.justify-content-center.align-items.p-4(data-aos="fade-left")
               .col-lg-6
-                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 En los billetes antiguos (50.000, 20.000 y 10.000) se pueden encontrar los siguientes elementos de seguridad a tener en cuenta:
+                    p.mb-4 En el caso de los billetes de 20.000 se incorporan múltiples características de seguridad que ayudan a confirmar su legitimidad. Estos elementos suelen incluir...
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Al exponer el billete a la luz ultravioleta se puede apreciar que el  hilo de seguridad se ve en colores amarillo, azul y rojo. Con mayor nitidez en las secciones que salen del papel. La denominación “20000” y el texto “VEINTE MIL PESOS” parecen en dos sellos en el costado izquierdo, así como en sentido vertical la denominación “20000” en el centro del billete, los cuales reaccionan en color amarillo.
@@ -572,13 +571,13 @@
                   | Elementos de seguridad, billete de 20 mil.
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img13.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
                 p.mb-3.text-rigth (Banco de la República, s.f.)
-            .row.justify-content-center.align-items-center.p-4(data-aos="fade-left")
+            .row.justify-content-center.align-items.p-4(data-aos="fade-left")
               .col-lg-6
                 
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 En los billetes antiguos (50.000, 20.000 y 10.000) se pueden encontrar los siguientes elementos de seguridad a tener en cuenta:
+                    p.mb-4 Los billetes de 10.000 están protegidos con diversos sistemas de seguridad que aseguran su validez. Dentro de estos mecanismos se encuentran...
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Las áreas con relieve, en la mayoría de los caos, son las zonas más oscuras del billete.
@@ -596,62 +595,62 @@
                 p.mb-3.text-rigth (Banco de la República, s.f.)
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                
+                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
+                    p.mb-4(data-aos="fade-left") Los nuevos billetes incluyen diversos elementos de seguridad, entre los cuales se encuentran los siguientes:
               .col-lg-10
                 img.mb-3(src="@/assets/curso/temas/img15.png", alt="")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Imágenes y textos en relieve y elementos en sistema #[em braille] para personas con discapacidad visual.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                
+                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
+                    p.mb-4(data-aos="fade-left") En los billetes más recientes se han añadido elementos de seguridad como los que se mencionan a continuación:
               .col-lg-10
                 img.mb-3(src="@/assets/curso/temas/img16.png", alt="")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Imágenes coincidentes, efectos en la cinta de seguridad y marcas de agua a trasluz.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                
+                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
+                    p.mb-4(data-aos="fade-left") Los billetes modernos presentan distintos elementos de seguridad, como los siguientes:
               .col-lg-10
                 img.mb-3(src="@/assets/curso/temas/img17.png", alt="")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                
+                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
+                    p.mb-4(data-aos="fade-left") En los nuevos diseños de billetes se integran varios elementos de seguridad, tales como:
               .col-lg-10
                 img.mb-3(src="@/assets/curso/temas/img18.png", alt="")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Reacción a luz ultravioleta.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                
+                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
+                    p.mb-4(data-aos="fade-left") Los billetes actuales están provistos de elementos de seguridad, entre ellos se destacan los siguientes:
               .col-lg-10
                 img.mb-3(src="@/assets/curso/temas/img19.png", alt="")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Microtextos para observar con lupa.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                
+                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check

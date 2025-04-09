@@ -245,12 +245,12 @@ export default {
         {
           nombre: 'Jaime Pérez Posada',
           cargo: 'Instructor',
-          centro: 'Comercio - Regional Antioquia',
+          centro: 'Centro de Comercio - Regional Antioquia',
         },
         {
           nombre: 'Samuel Pinilla Hurtado',
           cargo: 'Instructor',
-          centro: 'Comercio - Regional Antioquia',
+          centro: 'Centro de Comercio - Regional Antioquia',
         },
         {
           nombre: 'Zvi Daniel Grosman Landáez',
