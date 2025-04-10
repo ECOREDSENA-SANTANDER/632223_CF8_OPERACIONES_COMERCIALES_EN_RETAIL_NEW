@@ -601,7 +601,7 @@
                     i.fas.fa-circle-check
                     p.mb-4(data-aos="fade-left") Los nuevos billetes incluyen diversos elementos de seguridad, entre los cuales se encuentran los siguientes:
               .col-lg-10
-                img.mb-3(src="@/assets/curso/temas/img15.png", alt="")
+                img.mb-3(src="@/assets/curso/temas/img15.png", alt="Imagen que muestra ejemplos de elementos de seguridad en nuevos billetes, ilustrados mediante secciones ampliadas de sus detalles.")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Imágenes y textos en relieve y elementos en sistema #[em braille] para personas con discapacidad visual.
             .row.justify-content-center.align-items-center.p-4
@@ -612,7 +612,7 @@
                     i.fas.fa-circle-check
                     p.mb-4(data-aos="fade-left") En los billetes más recientes se han añadido elementos de seguridad como los que se mencionan a continuación:
               .col-lg-10
-                img.mb-3(src="@/assets/curso/temas/img16.png", alt="")
+                img.mb-3(src="@/assets/curso/temas/img16.png", alt="Imágenes ampliadas que muestran elementos de seguridad visibles en nuevos billetes, como marcas, hilos y patrones especiales.")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Imágenes coincidentes, efectos en la cinta de seguridad y marcas de agua a trasluz.
             .row.justify-content-center.align-items-center.p-4
@@ -623,7 +623,7 @@
                     i.fas.fa-circle-check
                     p.mb-4(data-aos="fade-left") Los billetes modernos presentan distintos elementos de seguridad, como los siguientes:
               .col-lg-10
-                img.mb-3(src="@/assets/curso/temas/img17.png", alt="")
+                img.mb-3(src="@/assets/curso/temas/img17.png", alt="Imágenes detalladas de elementos de seguridad en billetes: hologramas, marcas de agua y patrones especiales.")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4
@@ -634,7 +634,7 @@
                     i.fas.fa-circle-check
                     p.mb-4(data-aos="fade-left") En los nuevos diseños de billetes se integran varios elementos de seguridad, tales como:
               .col-lg-10
-                img.mb-3(src="@/assets/curso/temas/img18.png", alt="")
+                img.mb-3(src="@/assets/curso/temas/img18.png", alt="Billetes bajo luz ultravioleta mostrando elementos de seguridad visibles solo en estas condiciones.")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Reacción a luz ultravioleta.
             .row.justify-content-center.align-items-center.p-4

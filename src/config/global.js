@@ -116,14 +116,14 @@ export default {
     {
       tema: 'Arqueo de caja',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021, 13 julio). Arqueo de caja [video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, 13 julio). Arqueo de caja.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rpicwosfieU',
     },
     {
       tema: 'Clasificar efectivo y medios de pago',
       referencia:
-        'Somos Bold. (2020). ¿Cómo verificar la autenticidad de una tarjeta de crédito? [video]. YouTube.',
+        'Somos Bold. (2020). ¿Cómo verificar la autenticidad de una tarjeta de crédito?.',
       tipo: 'Video',
       link: 'https://youtu.be/GD-ook_LYAo',
     },
@@ -208,7 +208,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Arenal, C. (2019). Operaciones de caja en la venta. UF0035. Editorial Tutor Formación.',
+        'Arenal, C. (2019). UF0035: Operaciones de caja en la venta. Editorial Tutor Formación.',
       link:
         'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
     },
