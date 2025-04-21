@@ -154,7 +154,7 @@ export default {
         {
           id: 7,
           texto:
-            'El informe de arqueo controla los ingresos y egresos de cada caja en el retail. Requiere formación técnica, ya que puede volverse complicado para los cajeros.',
+            'El informe de arqueo controla los ingresos y egresos de cada caja en el <em>retail</em>. Requiere formación técnica, ya que puede volverse complicado para los cajeros.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -175,7 +175,7 @@ export default {
         {
           id: 8,
           texto:
-            'Al finalizar el turno, la caja debe quedar llena con el dinero producido, bonos y cheques, y no se requiere reportar la gestión al departamento de recaudo del retail.',
+            'Al finalizar el turno, la caja debe quedar llena con el dinero producido, bonos y cheques, y no se requiere reportar la gestión al departamento de recaudo del <em>retail</em>.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

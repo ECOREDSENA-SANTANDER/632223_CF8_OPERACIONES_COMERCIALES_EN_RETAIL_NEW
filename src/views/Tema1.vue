@@ -539,7 +539,7 @@
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 Los billetes de 50.000 cuentan con diversos elementos de seguridad diseñados para prevenir la falsificación y garantizar su autenticidad. Entre estos se incluyen...
+                    p.mb-4 Los billetes de 50.000 cuentan con diversos elementos de seguridad diseñados para prevenir la falsificación y garantizar su autenticidad. Entre estos se incluyen.
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Las áreas con relieve en la mayoría de los casos, son las zonas más oscuras del billete.
@@ -558,7 +558,7 @@
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 En el caso de los billetes de 20.000 se incorporan múltiples características de seguridad que ayudan a confirmar su legitimidad. Estos elementos suelen incluir...
+                    p.mb-4 En el caso de los billetes de 20.000 se incorporan múltiples características de seguridad que ayudan a confirmar su legitimidad. Estos elementos suelen incluir.
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Al exponer el billete a la luz ultravioleta se puede apreciar que el  hilo de seguridad se ve en colores amarillo, azul y rojo. Con mayor nitidez en las secciones que salen del papel. La denominación “20000” y el texto “VEINTE MIL PESOS” parecen en dos sellos en el costado izquierdo, así como en sentido vertical la denominación “20000” en el centro del billete, los cuales reaccionan en color amarillo.
@@ -577,7 +577,7 @@
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 Los billetes de 10.000 están protegidos con diversos sistemas de seguridad que aseguran su validez. Dentro de estos mecanismos se encuentran...
+                    p.mb-4 Los billetes de 10.000 están protegidos con diversos sistemas de seguridad que aseguran su validez. Dentro de estos mecanismos se encuentran.
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Las áreas con relieve, en la mayoría de los caos, son las zonas más oscuras del billete.
@@ -595,7 +595,6 @@
                 p.mb-3.text-rigth (Banco de la República, s.f.)
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
@@ -606,7 +605,7 @@
               p.mb-0.text-center Imágenes y textos en relieve y elementos en sistema #[em braille] para personas con discapacidad visual.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
@@ -617,7 +616,7 @@
               p.mb-0.text-center Imágenes coincidentes, efectos en la cinta de seguridad y marcas de agua a trasluz.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
@@ -628,7 +627,7 @@
               p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
@@ -639,7 +638,7 @@
               p.mb-0.text-center Reacción a luz ultravioleta.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
@@ -650,7 +649,7 @@
               p.mb-0.text-center Microtextos para observar con lupa.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
-                p.mb-4 Hay que tener en cuenta recomendaciones para la detección de falsificaciones. Siempre que se dude de la autenticidad de un billete o moneda, la mejor manera de verificar es comparándolo con otro billete o moneda del cual tenga la certeza que es auténtico. De esta forma será muy fácil detectar que alguna de las características de autenticidad está ausente en la falsificación. Sin embargo, si no dispone de un billete o moneda para efectuar la comparación, es importante tener presente los siguientes elementos de seguridad a encontrar para el cono monetario:
+                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check

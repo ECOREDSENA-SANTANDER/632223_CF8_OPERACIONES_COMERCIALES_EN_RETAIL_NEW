@@ -106,9 +106,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'Arqueo de caja y entrega del puesto de trabajo',
+      tema: 'Operaciones de caja en la venta.',
       referencia:
-        'Arenal, C. (2019). Operaciones de caja en la venta. UF0035. Editorial Tutor Formación.',
+        'Arenal, C. (2019). UF0035: Operaciones de caja en la venta. Editorial Tutor Formación.',
       tipo: 'Libro',
       link:
         'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
