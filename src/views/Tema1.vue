@@ -564,7 +564,7 @@
                     p.mb-0 Al exponer el billete a la luz ultravioleta se puede apreciar que el  hilo de seguridad se ve en colores amarillo, azul y rojo. Con mayor nitidez en las secciones que salen del papel. La denominación “20000” y el texto “VEINTE MIL PESOS” parecen en dos sellos en el costado izquierdo, así como en sentido vertical la denominación “20000” en el centro del billete, los cuales reaccionan en color amarillo.
                   li.d-flex.mb-0
                     i.fas.fa-check
-                    p.mb-0 Las áreas con relieve, en la mayoría de los caos, son las zonas más oscuras del billete.
+                    p.mb-0 Las áreas con relieve, en la mayoría de los casos, son las zonas más oscuras del billete.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 9. 
@@ -580,7 +580,7 @@
                     p.mb-4 Los billetes de 10.000 están protegidos con diversos sistemas de seguridad que aseguran su validez. Dentro de estos mecanismos se encuentran.
                   li.d-flex.mb-0
                     i.fas.fa-check
-                    p.mb-0 Las áreas con relieve, en la mayoría de los caos, son las zonas más oscuras del billete.
+                    p.mb-0 Las áreas con relieve, en la mayoría de los casos, son las zonas más oscuras del billete.
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Los dos hilos de seguridad están ubicados en posición vertical. Visto por el anverso, el hilo de la derecha es transparente y a la contraluz permite leer el texto “BRC 10000”. El de la izquierda no es transparente y se aprecia como opaco a contraluz.
@@ -629,7 +629,7 @@
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 13. 
                   | Elementos de seguridad, hologramas, marcas de agua y patrones espaciales 
-                img.mb-3(src="@/assets/curso/temas/img17.png", alt="Imágenes ampliadas que muestran elementos de seguridad visibles en nuevos billetes, como marcas, hilos y patrones especiales.")
+                img.mb-3(src="@/assets/curso/temas/img17.png", alt=": Imagen detallada de elementos de seguridad en billetes: hologramas, marcas de agua y patrones espaciales.")
                 p.mb-4.text-rigth (Banco de la República, s.f.)
               p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4

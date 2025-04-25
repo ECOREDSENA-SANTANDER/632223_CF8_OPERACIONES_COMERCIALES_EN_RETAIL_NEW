@@ -20,7 +20,7 @@ export default {
       tema: 'Protocolos de cierre de caja',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y apropiación de los conceptos fundamentales sobre Protocolos de cierre de caja, como complemento para su formación académica.',
+        '<b> Objetivo:</b> evaluar la comprensión y apropiación de los conceptos fundamentales sobre Protocolos de cierre de caja, como complemento para su formación académica.',
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       barajarPreguntas: true,
